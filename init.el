@@ -9,7 +9,7 @@
 
 (require 'setup-pkg)
 (require 'setup-theme)
-(require 'setup-rtags)
+;;(require 'setup-rtags)
 
 (require 'company)
 (add-hook 'after-init-hook 'global-company-mode)
