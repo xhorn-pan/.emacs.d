@@ -1,4 +1,9 @@
 elpa
 .DS_Store
 auto-save-list/
+<<<<<<< HEAD
 network-security.data
+=======
+network-security.data
+session.*
+>>>>>>> master
